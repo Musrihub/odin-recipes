@@ -1,14 +1,20 @@
 *{
     line-height: 1.5;
+    margin: 0;
+    padding: 0;
 }
 body{
     background-image: url(bgimg.jpg);
+    margin-left: 40px;
 }
 h1{
     color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 img{
     border:black solid;
+    margin-bottom: 20px;
 }
 a{
     color: black;
