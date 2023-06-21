@@ -4,6 +4,9 @@
 body{
     background-image: url(bgimg.jpg);
 }
+h1{
+    color: white;
+}
 img{
     border:black solid;
 }
